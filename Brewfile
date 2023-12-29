@@ -15,6 +15,7 @@ brew 'mas' # Mac App Store manager
 # Development
 brew 'node'
 brew 'yarn'
+brew 'zsh'
 
 # Apps
 cask '1password'
